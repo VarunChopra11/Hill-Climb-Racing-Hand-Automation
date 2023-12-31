@@ -14,3 +14,12 @@ Python libraries required/used : 1.) Opencv 2.) Mediapipe 3.) PyAutoGUI
 3.) PyAutoGUI installation command:  "pip install PyAutoGUI"
 
 Total number of 20 landmarks on hand by mediapipe, refer "mediapipe_handlandmarks.png" file in repository for landmarks location.
+
+
+How to run Game using this software.:
+
+Just run the code and open hill climb racing game in another tab start the game and hover your left hand in camera.
+        *Open Hand For Acceleration.
+        *Close Hand For Brake/Reverse.
+
+
